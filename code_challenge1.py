@@ -1,0 +1,3 @@
+simon_phrase ="\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t*\t\t\t\tMY NAME IS SIMON\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t\t"
+
+print(simon_phrase)
